@@ -9,7 +9,7 @@ public class TestMobil {
 
 	public TestMobil()
 	{
-		mobil = new Mobil();
+		//mobil = new Mobil();
 		Random r = new Random(System.currentTimeMillis());
 		
 		do {
